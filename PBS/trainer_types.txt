@@ -1,0 +1,1598 @@
+﻿#-------------------------------
+[ABBOT]
+Name = Abbot
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[AROMALADY]
+Name = Aroma Lady
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[AROMALADY2]
+Name = Aroma Lady
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[AROMALADY3]
+Name = Aroma Lady
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[BACKPACKER_M]
+Name = Backpacker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BACKPACKER_F]
+Name = Backpacker
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[BAKER]
+Name = Baker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BALLGUY]
+Name = Baker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BARON]
+Name = Baron
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[BARON2]
+Name = Baron
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[BARONESS]
+Name = Baroness
+Gender = Female
+BaseMoney = 72
+#-------------------------------
+[BARONESS2]
+Name = Baroness
+Gender = Female
+BaseMoney = 72
+#-------------------------------
+[BATTLEGIRL]
+Name = Battle Girl
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[BATTLEGIRL2]
+Name = Battle Girl
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[BEAUTY]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+#-------------------------------
+[BEAUTY2]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+#-------------------------------
+[BEAUTY3]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+#-------------------------------
+[BEAUTY4]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+#-------------------------------
+[BEAUTY5]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+#-------------------------------
+[BEAUTY6]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+#-------------------------------
+[BEAUTY7]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+#-------------------------------
+[BELLHOP]
+Name = Bellhop
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BIKER]
+Name = Biker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BIKER2]
+Name = Biker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BIKER3]
+Name = Biker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BIRDKEEPER_M]
+Name = Bird Keeper
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BIRDKEEPER_F]
+Name = Bird Keeper
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[BLACKBELT]
+Name = Black Belt
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BLACKBELT2]
+Name = Black Belt
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BLACKBELT3]
+Name = Black Belt
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[BLACKBELT14]
+Name = Black Belt
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[BLAZEBIKER]
+Name = Blaze Biker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BLAZEBIKER2]
+Name = Blaze Biker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BLAZEBIKER3]
+Name = Blaze Biker
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[BOARDER]
+Name = Boarder
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[BOOKGIRL]
+Name = Book Girl
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[BOXER]
+Name = Boxer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BREEDER_M]
+Name = Pokémon Breeder
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[BREEDER_F]
+Name = Pokémon Breeder
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[BUGCATCHER_M]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[BUGCATCHER_F]
+Name = Bug Catcher
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[BUGCATCHER2_M]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BUGCATCHER2_F]
+Name = Bug Catcher
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[BURGLAR]
+Name = Burglar
+Gender = Male
+BaseMoney = 88
+SkillLevel = 32
+#-------------------------------
+[BURGLAR2]
+Name = Burglar
+Gender = Male
+BaseMoney = 88
+SkillLevel = 32
+#-------------------------------
+[BUTLER]
+Name = Butler
+Gender = Male
+BaseMoney = 64
+SkillLevel = 48
+#-------------------------------
+[CAMERAMAN]
+Name = Cameraman
+Gender = Male
+BaseMoney = 30
+SkillLevel = 32
+#-------------------------------
+[CAFEMASTER]
+Name = Cafe Master
+Gender = Male
+BaseMoney = 100
+SkillLevel = 64
+#-------------------------------
+[CAMPER]
+Name = Camper
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[CHANNELER]
+Name = Channeler
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CHANNELER2]
+Name = Channeler
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CHEERLEADER_F]
+Name = Cheerleader
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CHEERLEADER_M]
+Name = Cheerleader
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CHEERLEADERS_F]
+Name = Cheerleaders
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CHEERLEADERS_M]
+Name = Cheerleaders
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CHEF]
+Name = Chef
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CHEF2]
+Name = Chef
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CHEF3]
+Name = Chef
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CLERK_M]
+Name = Clerk
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[CLERK_F]
+Name = Clerk
+Gender = Female
+BaseMoney = 64
+#-------------------------------
+[CLERK2_M]
+Name = Clerk
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[CLERK2_F]
+Name = Clerk
+Gender = Female
+BaseMoney = 64
+#-------------------------------
+[CLERK3_M]
+Name = Clerk
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[CLERK3_F]
+Name = Clerk
+Gender = Female
+BaseMoney = 64
+#-------------------------------
+[CLERK4_M]
+Name = Clerk
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[CLIMBER]
+Name = Climber
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CLOWN]
+Name = Clown
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CLOWN_F]
+Name = Clown Girl
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[COLLECTOR]
+Name = Collector
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[COLLECTOR2]
+Name = Collector
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[COWGIRL]
+Name = Cow Girl
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[COOLTRAINER_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER2_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER2_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER3_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER3_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER4_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER4_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER5_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER5_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER6_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER6_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER7_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[COOLTRAINER7_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[COURIER]
+Name = Crush Girl
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CRUSHGIRL]
+Name = Crush Girl
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CUEBALL]
+Name = Cue Ball
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CUEBALL2]
+Name = Cue Ball
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CYCLIST_M]
+Name = Cyclist
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CYCLIST_F]
+Name = Cyclist
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CYCLIST2_M]
+Name = Cyclist
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CYCLIST2_F]
+Name = Cyclist
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[DANCER_M]
+Name = Dancer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[DANCER_F]
+Name = Dancer
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[DELIQUENT]
+Name = Deliquent
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[DEPOTAGENT]
+Name = Debot Agent
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[DIVER_M]
+Name = Diver
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[DIVER_F]
+Name = Diver
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[DOCTOR]
+Name = Doctor
+Gender = Male
+BaseMoney = 80
+#-------------------------------
+[DOCTOR_F]
+Name = Doctor
+Gender = Female
+BaseMoney = 80
+#-------------------------------
+[DRAGONTAMER]
+Name = Dragon Tamer
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[DRAGONTAMER_F]
+Name = Dragon Tamer
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[DRAGONTAMER2]
+Name = Dragon Tamer
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[ENGINEER_M]
+Name = Engineer
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[ENGINEER_F]
+Name = Engineer
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[EXPERT_M]
+Name = Expert
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[EXPERT_F]
+Name = Expert
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[FAIRYTALEGIRL]
+Name = Fairy Tale Girl
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[FARMER_M]
+Name = Farmer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[FARMER_F]
+Name = Farmer
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[FIREBREATHER]
+Name = Fire Breather
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[FIREFIGHTER]
+Name = Firefighter
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[FISHERMAN]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[FISHERMAN2]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[FISHERMAN3]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[FISHERMAN4]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[FISHERMAN5]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[FISHERWOMAN]
+Name = Fisherwoman
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[GAMBLER]
+Name = Gambler
+Gender = Male
+BaseMoney = 72
+SkillLevel = 64
+#-------------------------------
+[GAMBLER2]
+Name = Gambler
+Gender = Male
+BaseMoney = 72
+SkillLevel = 64
+#-------------------------------
+[GARDENER_M]
+Name = Gardener
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[GARDENER_F]
+Name = Gardener
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[GARDENER2_M]
+Name = Gardener
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[GARDENER2_F]
+Name = Gardener
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[GATEGUARD]
+Name = Gate Guard
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[GENTLEMAN]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[GENTLEMAN2]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[GENTLEMAN3]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[GENTLEMAN4]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[GOLFER_M]
+Name = Golfer
+Gender = Male
+BaseMoney = 72
+SkillLevel = 48
+#-------------------------------
+[GOLFER_F]
+Name = Golfer
+Gender = Female
+BaseMoney = 72
+SkillLevel = 48
+#-------------------------------
+[GUITARIST_M]
+Name = Guitarist
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[GUITARIST2_M]
+Name = Guitarist
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[GUITARIST_F]
+Name = Guitarist
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[HARLEQUIN]
+Name = Harlequin
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[HEXMANIAC]
+Name = Hex Maniac
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[HIKER]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[HIKER2]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[HOOPSTER]
+Name = Hoopster
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[IDOL]
+Name = Idol
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[INFIELDER]
+Name = Infielder
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[INTERVIEWERS]
+Name = Interviewers
+Gender = Unknown
+BaseMoney = 50
+#-------------------------------
+[INTERVIEWERS2]
+Name = Interviewer
+Gender = Unknown
+BaseMoney = 50
+#-------------------------------
+[JANITOR]
+Name = Janitor
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[JANITOR2]
+Name = Janitor
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[JANITOR3]
+Name = Janitor
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[JUGGLER]
+Name = Juggler
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[JUGGLER2]
+Name = Juggler
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[KIMONOGIRL]
+Name = Kimono Girl
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[KIMONOGIRL_Hime]
+Name = Kimono Girl
+Gender = Female
+BaseMoney = 72
+#-------------------------------
+[KINDLER]
+Name = Kindler
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[LADY]
+Name = Lady
+Gender = Female
+BaseMoney = 160
+SkillLevel = 72
+#-------------------------------
+[LADY2]
+Name = Lady
+Gender = Female
+BaseMoney = 160
+SkillLevel = 72
+#-------------------------------
+[LADY3]
+Name = Lady
+Gender = Female
+BaseMoney = 160
+SkillLevel = 72
+#-------------------------------
+[LADY4]
+Name = Lady
+Gender = Female
+BaseMoney = 160
+SkillLevel = 72
+#-------------------------------
+[LASS]
+Name = Lass
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[LASS2]
+Name = Lass
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[LASS3]
+Name = Lass
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[LASS4]
+Name = Lass
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[LINEBACKER]
+Name = Linebacker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[LITTLEGIRL]
+Name = Little Girl
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[LUMBERJACK_M]
+Name = Lumberjack
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[LUMBERJACK2_M]
+Name = Lumberjack
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[LUMBERJACK_F]
+Name = Lumberjack
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[MADAME]
+Name = Madame
+Gender = Female
+BaseMoney = 72
+#-------------------------------
+[MADAME2]
+Name = Madame
+Gender = Female
+BaseMoney = 72
+#-------------------------------
+[MADAME4]
+Name = Madame
+Gender = Female
+BaseMoney = 72
+#-------------------------------
+[MAID]
+Name = Maid
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[MODEL_M]
+Name = Model
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[MODEL_F]
+Name = Model
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[MINER_M]
+Name = Miner
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[MINER_F]
+Name = Miner
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[MUSICIAN]
+Name = Musician
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[MOTORCYCLIST]
+Name = Motor Cyclist
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[NINJABOY]
+Name = Ninja Boy
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[NINJAGIRL]
+Name = Ninja Girl
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[NONLA_M]
+Name = Nonla
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[NONLA_F]
+Name = Nonla
+Gender = Female
+BaseMoney = 64
+#-------------------------------
+[NONLAEXPERT]
+Name = Nonla Expert
+Gender = Male
+BaseMoney = 80
+#-------------------------------
+[NURSE]
+Name = Nurse
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[NURSE1]
+Name = Nurse
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[NURSERYAIDE]
+Name = Nursery Aide
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[OLDMAN]
+Name = Old Man
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[OLDWOMAN]
+Name = Old Woman
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[OWNER]
+Name = Owner
+Gender = Male
+BaseMoney = 150
+SkillLevel = 64
+#-------------------------------
+[OWNER2]
+Name = Owner
+Gender = Male
+BaseMoney = 150
+SkillLevel = 64
+#-------------------------------
+[PAINTER_M]
+Name = Painter
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PAINTER_F]
+Name = Painter
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[PAINTER2_M]
+Name = Painter
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PAINTER3_M]
+Name = Painter
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PARASOLLADY]
+Name = Parasol Lady
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[PARASOLLADY2]
+Name = Parasol Lady
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[PHOTOGRAPHER_F]
+Name = Photographer
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[PICNICKER]
+Name = Picnicker
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[PILOT]
+Name = Pilot
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[PIRATE]
+Name = Pirate
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[POET]
+Name = Poet
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[POKEKID]
+Name = Poke Kid
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[POKEFAN_M]
+Name = Pokefan
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[POKEFAN_F]
+Name = Pokefan
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[POKEFAN2_M]
+Name = Pokefan
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[POKEFAN2_F]
+Name = Pokefan
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[POKEMANIAC]
+Name = Poké Maniac
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[POKEMANIAC2]
+Name = Poké Maniac
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[POLICEMAN]
+Name = Policeman
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[POLICEMAN2]
+Name = Policeman
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[POSTMAN]
+Name = Postman
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PRESCHOOL_M]
+Name = Preschool
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[PRESCHOOL_F]
+Name = Preschool
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[PRESCHOOL2_M]
+Name = Preschool
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[PRESCHOOL2_F]
+Name = Preschool
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[PSYCHIC_M]
+Name = Psychic
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PSYCHIC_F]
+Name = Psychic
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[PSYCHIC2_M]
+Name = Psychic
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PSYCHIC2_F]
+Name = Psychic
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[PSYCHIC3_M]
+Name = Psychic
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PUNKGIRL]
+Name = Punk Girl
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[PUNKGUY]
+Name = Punk Guy
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PUNKGIRL2]
+Name = Punk Girl
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[PUNKGUY2]
+Name = Punk Guy
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[RANCHER]
+Name = Rancher
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[RANCHER2]
+Name = Rancher
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PROFESSOR]
+Name = Professor
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[RANGER_M]
+Name = Pokémon Ranger
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[RANGER_F]
+Name = Pokémon Ranger
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[REPORTER]
+Name = Reporter
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[RICHBOY]
+Name = Rich Boy
+Gender = Male
+BaseMoney = 88
+SkillLevel = 32
+#-------------------------------
+[RICHBOY2]
+Name = Rich Boy
+Gender = Male
+BaseMoney = 88
+SkillLevel = 32
+#-------------------------------
+[RICHBOY3]
+Name = Rich Boy
+Gender = Male
+BaseMoney = 88
+SkillLevel = 32
+#-------------------------------
+[RISINGSTAR_M]
+Name = Rising Star
+Gender = Male
+BaseMoney = 80
+#-------------------------------
+[RISINGSTAR_F]
+Name = Rising Star
+Gender = Female
+BaseMoney = 80
+#-------------------------------
+[ROCKER]
+Name = Rocker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[ROCKER2]
+Name = Rocker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[ROUGHRIDER]
+Name = Rough Rider
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[ROUGHRIDER2]
+Name = Rough Rider
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[ROUGHRIDERLEADER]
+Name = Rough Rider Leader
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[RUINMANIAC]
+Name = Ruin Maniac
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[RUINMANIAC2]
+Name = Ruin Maniac
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[RUINMANIAC3]
+Name = Ruin Maniac
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SAGE]
+Name = Sage
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SAILOR]
+Name = Sailor
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SAILOR2]
+Name = Sailor
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SCHOOLKID_M]
+Name = School Kid
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[SCHOOLKID_F]
+Name = School Kid
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[SCHOOLKID2_M]
+Name = School Kid
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[SCHOOLKID3_M]
+Name = School Kid
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[SCHOOLKID3_F]
+Name = School Kid
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[SCHOOLKID4_M]
+Name = School Kid
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[SCHOOLKID4_F]
+Name = School Kid
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[SCHOOLKID5_M]
+Name = School Kid
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[SCHOOLKID5_F]
+Name = School Kid
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[SCIENTIST_M]
+Name = Scientist
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SCIENTIST_F]
+Name = Scientist
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[SCIENTIST2_M]
+Name = Scientist
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SCIENTIST2_F]
+Name = Scientist
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[SCIENTIST3_M]
+Name = Scientist
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SECRETEXPERT]
+Name = Secret Expert
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[SKIER_M]
+Name = Skier
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SKIER_F]
+Name = Skier
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[SKYTRAINER_M]
+Name = Sky Trainer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SKYTRAINER_F]
+Name = Sky Trainer
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[SMASHER]
+Name = Smasher
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[STREETTHUG]
+Name = Street Thug
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[STRIKER]
+Name = Striker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SUPERNERD]
+Name = Super Nerd
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SURFER]
+Name = Surfer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SISANDBRO]
+Name = Sis and Bro
+Gender = Unknown
+BaseMoney = 32
+#-------------------------------
+[SWIMMER_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SWIMMER_F]
+Name = Swimmer
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[SWIMMER2_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SWIMMER2_F]
+Name = Swimmer
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[SWIMMER3_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SWIMMER3_F]
+Name = Swimmer
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[SWIMMER4_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SWIMMER5_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[TEACHER]
+Name = Teacher
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[TOURIST_M]
+Name = Tourist
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[TOURIST_F]
+Name = Tourist
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[TOURIST2_F]
+Name = Tourist
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[TOURIST3_M]
+Name = Tourist
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[TOURIST3_F]
+Name = Tourist
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[TRIALGUIDE_M]
+Name = Trial Guide
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[TRIALGUIDE_F]
+Name = Trial Guide
+Gender = Female
+BaseMoney = 72
+#-------------------------------
+[TUBER_M]
+Name = Tuber
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TUBER_F]
+Name = Tuber
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TUBER2_M]
+Name = Tuber
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TUBER2_F]
+Name = Tuber
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TWINS]
+Name = Twins
+Gender = Unknown
+BaseMoney = 16
+#-------------------------------
+[TWINS2]
+Name = Twins
+Gender = Unknown
+BaseMoney = 16
+#-------------------------------
+[TWINS3]
+Name = Twins
+Gender = Unknown
+BaseMoney = 16
+#-------------------------------
+[VETERAN_M]
+Name = Veteran
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[VETERAN_F]
+Name = Veteran
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[VETERAN2_M]
+Name = Veteran
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[VETERAN2_F]
+Name = Veteran
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[VETERAN3_M]
+Name = Veteran
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[VETERAN3_F]
+Name = Veteran
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[VETERAN4_M]
+Name = Veteran
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[VIRTUOUS_M]
+Name = Virtuous
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[VIRTUOUS_F]
+Name = Virtuous
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[WAITER]
+Name = Waiter
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[WAITRESS]
+Name = Waitress
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[WAITER2]
+Name = Waiter
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[WAITRESS2]
+Name = Waitress
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[WORKER]
+Name = Worker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[WORKER2]
+Name = Worker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[WORKER3]
+Name = Worker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[WORKER4]
+Name = Worker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[YOUNGSTER]
+Name = Youngster
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[YOUNGSTER2]
+Name = Youngster
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[YOUNGSTER3]
+Name = Youngster
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[YOUNGCOUPLE]
+Name = Young Couple
+Gender = Unknown
+BaseMoney = 60
+SkillLevel = 32
+#-------------------------------
+[YOUNGCOUPLE2]
+Name = Young Couple
+Gender = Unknown
+BaseMoney = 60
+SkillLevel = 32
+#-------------------------------
+[TAMER]
+Name = Tamer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
